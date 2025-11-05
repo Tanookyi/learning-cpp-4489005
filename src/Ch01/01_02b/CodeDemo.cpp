@@ -5,5 +5,7 @@
 
 int main(){
   std::cout << "Hi there!" << std::endl;
+
+  std::out << std::endl << std::endl;
   return(0);
 }
